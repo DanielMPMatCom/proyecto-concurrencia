@@ -1,5 +1,7 @@
 # Proyecto de Concurrencia
 
+![Concurrence](concurrence.jpeg)
+
 ## Orientación
 
 Realizar la implementación de la estructura de Lista Enlazada de enteros pero preparada para concurrencia. O sea, la estructura implementada debe ser capaz de poder realizar sus funciones de forma atómica sin importar la cantidad de operaciones concurrentes que sobre estas se realicen.
